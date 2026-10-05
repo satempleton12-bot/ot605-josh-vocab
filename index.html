@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#0f1419" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Josh Vocab" />
+  <meta name="description" content="Joshua 1–2 Biblical Hebrew vocabulary flip cards — OT605 Intermediate Hebrew, The Expositors Seminary" />
+  <title>Joshua 1–2 Vocab</title>
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="apple-touch-icon" href="./apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="192x192" href="./icon-192.png" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="top">
+      <div>
+        <h1>Joshua 1–2 Vocab</h1>
+        <p class="sub">OT605 · Intermediate Hebrew</p>
+      </div>
+    </header>
+
+    <section id="setup" class="panel">
+      <p class="hint">Practice every lemma in <strong>Joshua 1–2</strong>. Tap the card to flip. Mark <strong>Got it</strong> or <strong>Missed</strong> for a review pile.</p>
+
+      <label class="field">Direction
+        <select id="modeSelect" aria-label="Quiz direction">
+          <option value="he-en" selected>Hebrew → English</option>
+          <option value="en-he">English → Hebrew</option>
+        </select>
+      </label>
+
+      <label class="field">Filter
+        <select id="filterSelect" aria-label="Chapter filter">
+          <option value="all" selected>All lemmas</option>
+          <option value="ch1">Chapter 1 only</option>
+          <option value="ch2">Chapter 2 only</option>
+          <option value="both">In both chapters</option>
+          <option value="hard">Hard only (≤2× in Josh 1–2)</option>
+        </select>
+      </label>
+
+      <p class="status" id="status" aria-live="polite"></p>
+      <button type="button" class="btn" id="startBtn">Start quiz</button>
+    </section>
+
+    <section id="quiz" class="panel" hidden>
+      <div class="quiz-bar">
+        <span id="quizTitle">Quiz</span>
+        <span class="progress" id="progress">0/0</span>
+      </div>
+
+      <button type="button" class="flip-scene" id="flipCard" aria-label="Flip card">
+        <div class="flip-inner" id="flipInner">
+          <div class="flip-face flip-front">
+            <p class="face-label" id="frontLabel">Hebrew</p>
+            <div class="prompt" id="frontText" aria-live="polite"></div>
+            <p class="meta" id="frontMeta"></p>
+            <p class="tap-hint" id="tapHint">Tap to flip</p>
+          </div>
+          <div class="flip-face flip-back">
+            <p class="face-label" id="backLabel">English</p>
+            <div class="answer" id="backText"></div>
+            <p class="meta" id="backMeta"></p>
+          </div>
+        </div>
+      </button>
+
+      <div class="actions" id="gradeRow" hidden>
+        <button type="button" class="btn ok" id="gotItBtn">Got it</button>
+        <button type="button" class="btn secondary" id="missedBtn">Missed</button>
+      </div>
+    </section>
+
+    <section id="results" class="panel" hidden>
+      <p class="score" id="scoreLine">Score</p>
+      <p class="review" id="reviewLine"></p>
+      <button type="button" class="btn" id="againBtn">Review missed</button>
+      <div class="row">
+        <button type="button" class="btn secondary" id="fullAgainBtn">Full quiz</button>
+        <button type="button" class="btn ghost" id="homeBtn">Home</button>
+      </div>
+    </section>
+
+    <footer class="attr">
+      Lemmas from Open Scriptures MorphHB (WLC) · Gloss from Strong’s Hebrew Dictionary (public domain / CC-BY). For personal OT605 study.
+    </footer>
+  </div>
+  <script src="./vocab.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>

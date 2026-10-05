@@ -1,0 +1,19 @@
+{
+  "source": "Open Scriptures MorphHB WLC Josh.xml + Strong's Hebrew Dictionary (openscriptures/strongs)",
+  "chapters": [
+    1,
+    2
+  ],
+  "total_w_tokens": 724,
+  "tokens_ch1": 320,
+  "tokens_ch2": 404,
+  "unique_lemmas": 217,
+  "lemma_occurrences_sum": 698,
+  "in_both_chapters": 52,
+  "ch1_only": 71,
+  "ch2_only": 94,
+  "hard_leq_2": 146,
+  "missing_gloss_strongs": [],
+  "unresolved_clitic_suffix_tokens": 26,
+  "note": "Some MorphHB tokens are inseparable preposition+pronoun clitics (lemma code only); those lack separate numeric lemma IDs. All numeric lemmas resolved via Strong's."
+}
