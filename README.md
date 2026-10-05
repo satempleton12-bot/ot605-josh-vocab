@@ -36,6 +36,16 @@ Then open `http://localhost:8765/`.
 
 ## Deploy
 
-Public GitHub Pages (when pushed):
+Repo is initialized on `main` with remote:
 
-`https://sethtempleton-alt.github.io/ot605-josh-vocab/`
+`https://github.com/sethtempleton-alt/ot605-josh-vocab.git`
+
+When GitHub CLI / credentials are available:
+
+```bash
+gh repo create sethtempleton-alt/ot605-josh-vocab --public --source=. --remote=origin --push
+gh api -X POST repos/sethtempleton-alt/ot605-josh-vocab/pages -f build_type=workflow -f source[branch]=main -f source[path]=/
+# or: Settings → Pages → Deploy from branch `main` / root
+```
+
+Intended live URL: `https://sethtempleton-alt.github.io/ot605-josh-vocab/`
