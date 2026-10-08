@@ -221,7 +221,7 @@ window.JOSH_VOCAB = {
       "freq214": 13
     },
     {
-      "lemma": "אֵל",
+      "lemma": "אֶל",
       "gloss": "to, toward",
       "strongs": "H413",
       "freq": 14,
@@ -1181,7 +1181,7 @@ window.JOSH_VOCAB = {
       "freq214": 0
     },
     {
-      "lemma": "חֵסֵד",
+      "lemma": "חֶסֶד",
       "gloss": "lovingkindness, loyalty",
       "strongs": "H2617",
       "freq": 3,
