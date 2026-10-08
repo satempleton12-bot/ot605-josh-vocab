@@ -5,7 +5,7 @@ window.JOSH_VOCAB = {
   "words": [
     {
       "lemma": "אֵת",
-      "gloss": "Direct object marker (untranslated)",
+      "gloss": "direct object marker",
       "strongs": "H853",
       "freq": 44,
       "chapters": [
@@ -42,7 +42,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "אֲשֶׁר",
-      "gloss": "Who, which, that",
+      "gloss": "who, which, that",
       "strongs": "H834",
       "freq": 32,
       "chapters": [
@@ -77,7 +77,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "כֹּל",
-      "gloss": "All, every, whole",
+      "gloss": "all, every, whole",
       "strongs": "H3605",
       "freq": 24,
       "chapters": [
@@ -110,7 +110,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "אָמַר",
-      "gloss": "To say, speak",
+      "gloss": "say",
       "strongs": "H559",
       "freq": 19,
       "chapters": [
@@ -140,7 +140,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "אֶרֶץ",
-      "gloss": "Land, earth",
+      "gloss": "land, earth",
       "strongs": "H776",
       "freq": 18,
       "chapters": [
@@ -169,7 +169,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "יְהֹוָה",
-      "gloss": "YHWH (the LORD)",
+      "gloss": "YHWH, the LORD",
       "strongs": "H3068",
       "freq": 16,
       "chapters": [
@@ -195,7 +195,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "אִישׁ",
-      "gloss": "Man, husband, male",
+      "gloss": "man; husband; each",
       "strongs": "H376",
       "freq": 15,
       "chapters": [
@@ -222,7 +222,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "אֵל",
-      "gloss": "To, toward",
+      "gloss": "to, toward",
       "strongs": "H413",
       "freq": 14,
       "chapters": [
@@ -248,7 +248,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "כִּי",
-      "gloss": "For, because, that, when",
+      "gloss": "for, because; that; when",
       "strongs": "H3588",
       "freq": 14,
       "chapters": [
@@ -274,7 +274,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "הָיָה",
-      "gloss": "To be, become, happen",
+      "gloss": "be, become; happen",
       "strongs": "H1961",
       "freq": 12,
       "chapters": [
@@ -296,7 +296,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "נָתַן",
-      "gloss": "To give, put, set",
+      "gloss": "give; put, set",
       "strongs": "H5414",
       "freq": 12,
       "chapters": [
@@ -321,7 +321,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "לֹא",
-      "gloss": "Not",
+      "gloss": "not, no",
       "strongs": "H3808",
       "freq": 11,
       "chapters": [
@@ -366,7 +366,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "בּוֹא",
-      "gloss": "To come in, enter, bring",
+      "gloss": "come, go in, enter",
       "strongs": "H935",
       "freq": 10,
       "chapters": [
@@ -388,7 +388,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "זֶה",
-      "gloss": "This",
+      "gloss": "this",
       "strongs": "H2088",
       "freq": 10,
       "chapters": [
@@ -411,7 +411,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "יָלַךְ",
-      "gloss": "To walk (literally or figuratively)",
+      "gloss": "go, walk",
       "strongs": "H3212",
       "freq": 9,
       "chapters": [
@@ -432,7 +432,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "בַּיִת",
-      "gloss": "House",
+      "gloss": "house; household",
       "strongs": "H1004",
       "freq": 8,
       "chapters": [
@@ -451,7 +451,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "עִם",
-      "gloss": "With",
+      "gloss": "with",
       "strongs": "H5973",
       "freq": 8,
       "chapters": [
@@ -470,7 +470,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "אֱלֹהִים",
-      "gloss": "God, gods",
+      "gloss": "God; gods",
       "strongs": "H430",
       "freq": 7,
       "chapters": [
@@ -511,7 +511,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "עָשָׂה",
-      "gloss": "To do, make",
+      "gloss": "do, make",
       "strongs": "H6213",
       "freq": 7,
       "chapters": [
@@ -531,7 +531,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "צָוָה",
-      "gloss": "To command, charge",
+      "gloss": "command",
       "strongs": "H6680",
       "freq": 7,
       "chapters": [
@@ -551,7 +551,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "רָדַף",
-      "gloss": "To pursue, chase",
+      "gloss": "pursue, chase",
       "strongs": "H7291",
       "freq": 7,
       "chapters": [
@@ -568,7 +568,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "אַחַר",
-      "gloss": "After, behind",
+      "gloss": "after, behind",
       "strongs": "H310",
       "freq": 6,
       "chapters": [
@@ -586,7 +586,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "יַרְדֵּן",
-      "gloss": "Jordan",
+      "gloss": "Jordan (river)",
       "strongs": "H3383",
       "freq": 6,
       "chapters": [
@@ -606,7 +606,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "עַל",
-      "gloss": "On, upon, over, concerning",
+      "gloss": "on, upon, over; against",
       "strongs": "H5921",
       "freq": 6,
       "chapters": [
@@ -624,7 +624,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "פָּנִים",
-      "gloss": "Face, before",
+      "gloss": "face; (לִפְנֵי) before",
       "strongs": "H6440",
       "freq": 6,
       "chapters": [
@@ -644,7 +644,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "אָב",
-      "gloss": "Father",
+      "gloss": "father",
       "strongs": "H1",
       "freq": 5,
       "chapters": [
@@ -662,7 +662,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "אַתָּה",
-      "gloss": "You",
+      "gloss": "you (m. sg.)",
       "strongs": "H859",
       "freq": 5,
       "chapters": [
@@ -681,7 +681,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "בֵּן",
-      "gloss": "Son",
+      "gloss": "son",
       "strongs": "H1121",
       "freq": 5,
       "chapters": [
@@ -700,7 +700,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "דָּבָר",
-      "gloss": "Word, matter, thing",
+      "gloss": "word; matter, thing",
       "strongs": "H1697",
       "freq": 5,
       "chapters": [
@@ -719,7 +719,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "הוּא",
-      "gloss": "He, she, it",
+      "gloss": "he, it; that",
       "strongs": "H1931",
       "freq": 5,
       "chapters": [
@@ -737,7 +737,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "יָצָא",
-      "gloss": "To go out, come out",
+      "gloss": "go out, come out",
       "strongs": "H3318",
       "freq": 5,
       "chapters": [
@@ -755,7 +755,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "יָשַׁב",
-      "gloss": "To sit, dwell",
+      "gloss": "sit; dwell, live",
       "strongs": "H3427",
       "freq": 5,
       "chapters": [
@@ -774,7 +774,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "עֶבֶד",
-      "gloss": "Slave, servant",
+      "gloss": "servant, slave",
       "strongs": "H5650",
       "freq": 5,
       "chapters": [
@@ -792,7 +792,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "עָבַר",
-      "gloss": "To pass over, through, by",
+      "gloss": "pass over, cross",
       "strongs": "H5674",
       "freq": 5,
       "chapters": [
@@ -810,7 +810,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "עַד",
-      "gloss": "Until, as far as",
+      "gloss": "until; as far as",
       "strongs": "H5704",
       "freq": 5,
       "chapters": [
@@ -828,7 +828,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "שָׁמַע",
-      "gloss": "To hear, listen, obey",
+      "gloss": "hear; listen, obey",
       "strongs": "H8085",
       "freq": 5,
       "chapters": [
@@ -846,7 +846,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "אָח",
-      "gloss": "Brother",
+      "gloss": "brother",
       "strongs": "H251",
       "freq": 4,
       "chapters": [
@@ -864,7 +864,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "אָמַץ",
-      "gloss": "To be stout / courageous",
+      "gloss": "be strong, courageous",
       "strongs": "H553",
       "freq": 4,
       "chapters": [
@@ -881,7 +881,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "דֶּרֶךְ",
-      "gloss": "Way, road, manner",
+      "gloss": "way, road; manner",
       "strongs": "H1870",
       "freq": 4,
       "chapters": [
@@ -899,7 +899,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "חָזַק",
-      "gloss": "To be strong, strengthen",
+      "gloss": "be strong; strengthen",
       "strongs": "H2388",
       "freq": 4,
       "chapters": [
@@ -916,7 +916,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "יוֹם",
-      "gloss": "Day",
+      "gloss": "day",
       "strongs": "H3117",
       "freq": 4,
       "chapters": [
@@ -934,7 +934,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "יָרַשׁ",
-      "gloss": "To inherit / dispossess",
+      "gloss": "possess; dispossess",
       "strongs": "H3423",
       "freq": 4,
       "chapters": [
@@ -949,7 +949,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "עַם",
-      "gloss": "People",
+      "gloss": "people",
       "strongs": "H5971",
       "freq": 4,
       "chapters": [
@@ -966,7 +966,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "שָׁבַע",
-      "gloss": "To swear, take an oath",
+      "gloss": "swear (an oath)",
       "strongs": "H7650",
       "freq": 4,
       "chapters": [
@@ -984,7 +984,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "שׁוּב",
-      "gloss": "To return, turn back",
+      "gloss": "return, turn back",
       "strongs": "H7725",
       "freq": 4,
       "chapters": [
@@ -1002,7 +1002,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "שָׁלַח",
-      "gloss": "To send",
+      "gloss": "send",
       "strongs": "H7971",
       "freq": 4,
       "chapters": [
@@ -1020,7 +1020,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "שְׁנַיִם",
-      "gloss": "Two",
+      "gloss": "two",
       "strongs": "H8147",
       "freq": 4,
       "chapters": [
@@ -1037,7 +1037,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "אַל",
-      "gloss": "Not",
+      "gloss": "not, do not",
       "strongs": "H408",
       "freq": 3,
       "chapters": [
@@ -1052,7 +1052,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "אִם",
-      "gloss": "If",
+      "gloss": "if",
       "strongs": "H518",
       "freq": 3,
       "chapters": [
@@ -1068,7 +1068,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "אֲנַחְנוּ",
-      "gloss": "We",
+      "gloss": "we",
       "strongs": "H587",
       "freq": 3,
       "chapters": [
@@ -1084,7 +1084,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "אִשָּׁה",
-      "gloss": "Woman, wife",
+      "gloss": "woman; wife",
       "strongs": "H802",
       "freq": 3,
       "chapters": [
@@ -1101,7 +1101,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "גָּג",
-      "gloss": "Roof, top",
+      "gloss": "roof",
       "strongs": "H1406",
       "freq": 3,
       "chapters": [
@@ -1116,7 +1116,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "גַּם",
-      "gloss": "Also, even, moreover",
+      "gloss": "also, even",
       "strongs": "H1571",
       "freq": 3,
       "chapters": [
@@ -1133,7 +1133,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "הֵם",
-      "gloss": "They, those",
+      "gloss": "they",
       "strongs": "H1992",
       "freq": 3,
       "chapters": [
@@ -1150,7 +1150,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "הַר",
-      "gloss": "Mountain, hill",
+      "gloss": "mountain; hill country",
       "strongs": "H2022",
       "freq": 3,
       "chapters": [
@@ -1166,7 +1166,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "חַלּוֹן",
-      "gloss": "A window (as perforated)",
+      "gloss": "window",
       "strongs": "H2474",
       "freq": 3,
       "chapters": [
@@ -1182,7 +1182,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "חֵסֵד",
-      "gloss": "Kindness, loyalty (hesed)",
+      "gloss": "lovingkindness, loyalty",
       "strongs": "H2617",
       "freq": 3,
       "chapters": [
@@ -1197,7 +1197,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "יָדַע",
-      "gloss": "To know",
+      "gloss": "know",
       "strongs": "H3045",
       "freq": 3,
       "chapters": [
@@ -1213,7 +1213,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "יָרַד",
-      "gloss": "To go down, descend",
+      "gloss": "go down, descend",
       "strongs": "H3381",
       "freq": 3,
       "chapters": [
@@ -1229,7 +1229,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "יְרִיחוֹ",
-      "gloss": "Jericho",
+      "gloss": "Jericho (city)",
       "strongs": "H3405",
       "freq": 3,
       "chapters": [
@@ -1245,7 +1245,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "כֵּן",
-      "gloss": "So, thus",
+      "gloss": "so, thus; right",
       "strongs": "H3651",
       "freq": 3,
       "chapters": [
@@ -1262,7 +1262,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "מוּת",
-      "gloss": "To die",
+      "gloss": "die; (Hiph.) kill",
       "strongs": "H4191",
       "freq": 3,
       "chapters": [
@@ -1279,7 +1279,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "מֶלֶךְ",
-      "gloss": "King",
+      "gloss": "king",
       "strongs": "H4428",
       "freq": 3,
       "chapters": [
@@ -1312,7 +1312,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "נָקִי",
-      "gloss": "Innocent",
+      "gloss": "innocent, free (from)",
       "strongs": "H5355",
       "freq": 3,
       "chapters": [
@@ -1328,7 +1328,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "עֵבֶר",
-      "gloss": "A region across",
+      "gloss": "beyond; other side",
       "strongs": "H5676",
       "freq": 3,
       "chapters": [
@@ -1345,7 +1345,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "רַק",
-      "gloss": "Leanness, i.e. (figuratively) limitation",
+      "gloss": "only",
       "strongs": "H7535",
       "freq": 3,
       "chapters": [
@@ -1361,7 +1361,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "שָׁלוֹשׁ",
-      "gloss": "Three",
+      "gloss": "three",
       "strongs": "H7969",
       "freq": 3,
       "chapters": [
@@ -1378,7 +1378,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "שָׁם",
-      "gloss": "There (transferring to time) then",
+      "gloss": "there",
       "strongs": "H8033",
       "freq": 3,
       "chapters": [
@@ -1394,7 +1394,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "אָז",
-      "gloss": "Then, at that time",
+      "gloss": "then",
       "strongs": "H227",
       "freq": 2,
       "chapters": [
@@ -1408,7 +1408,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "אָחוֹת",
-      "gloss": "Sister",
+      "gloss": "sister",
       "strongs": "H269",
       "freq": 2,
       "chapters": [
@@ -1422,7 +1422,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "אֵם",
-      "gloss": "Mother",
+      "gloss": "mother",
       "strongs": "H517",
       "freq": 2,
       "chapters": [
@@ -1437,7 +1437,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "אֶמֶת",
-      "gloss": "Faithfulness, truth",
+      "gloss": "truth; faithfulness",
       "strongs": "H571",
       "freq": 2,
       "chapters": [
@@ -1452,7 +1452,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "גָּדוֹל",
-      "gloss": "Great (in any sense)",
+      "gloss": "great, large",
       "strongs": "H1419",
       "freq": 2,
       "chapters": [
@@ -1466,7 +1466,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "דָּם",
-      "gloss": "Blood (as that which when shed causes death) of man or an animal",
+      "gloss": "blood",
       "strongs": "H1818",
       "freq": 2,
       "chapters": [
@@ -1480,7 +1480,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "הִנֵּה",
-      "gloss": "Behold, lo",
+      "gloss": "behold!",
       "strongs": "H2009",
       "freq": 2,
       "chapters": [
@@ -1495,7 +1495,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "חוֹמָה",
-      "gloss": "Wall",
+      "gloss": "wall (of city)",
       "strongs": "H2346",
       "freq": 2,
       "chapters": [
@@ -1509,7 +1509,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "חָפַר",
-      "gloss": "To pry into",
+      "gloss": "dig; search out",
       "strongs": "H2658",
       "freq": 2,
       "chapters": [
@@ -1524,7 +1524,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "יָד",
-      "gloss": "Hand, power",
+      "gloss": "hand; power",
       "strongs": "H3027",
       "freq": 2,
       "chapters": [
@@ -1539,7 +1539,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "יָם",
-      "gloss": "Sea",
+      "gloss": "sea; west",
       "strongs": "H3220",
       "freq": 2,
       "chapters": [
@@ -1571,7 +1571,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "לַיִל",
-      "gloss": "Night",
+      "gloss": "night",
       "strongs": "H3915",
       "freq": 2,
       "chapters": [
@@ -1587,7 +1587,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "מוּג",
-      "gloss": "To melt (with fear)",
+      "gloss": "melt (away)",
       "strongs": "H4127",
       "freq": 2,
       "chapters": [
@@ -1602,7 +1602,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "מָוֶת",
-      "gloss": "Death",
+      "gloss": "death",
       "strongs": "H4194",
       "freq": 2,
       "chapters": [
@@ -1618,7 +1618,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "מִן",
-      "gloss": "From",
+      "gloss": "from, out of; than",
       "strongs": "H4480",
       "freq": 2,
       "chapters": [
@@ -1634,7 +1634,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "מַעַן",
-      "gloss": "In order that / for the sake of",
+      "gloss": "so that, for the sake of",
       "strongs": "H4616",
       "freq": 2,
       "chapters": [
@@ -1649,7 +1649,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "מָצָא",
-      "gloss": "To find",
+      "gloss": "find",
       "strongs": "H4672",
       "freq": 2,
       "chapters": [
@@ -1664,7 +1664,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "נָגַד",
-      "gloss": "To front, i.e. stand boldly out opposite",
+      "gloss": "(Hiph.) tell, declare",
       "strongs": "H5046",
       "freq": 2,
       "chapters": [
@@ -1679,7 +1679,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "נָהָר",
-      "gloss": "A stream (including the sea",
+      "gloss": "river",
       "strongs": "H5104",
       "freq": 2,
       "chapters": [
@@ -1693,7 +1693,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "נוּחַ",
-      "gloss": "To rest, settle",
+      "gloss": "rest; (Hiph.) give rest",
       "strongs": "H5117",
       "freq": 2,
       "chapters": [
@@ -1708,7 +1708,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "נֶפֶשׁ",
-      "gloss": "Soul, life, person",
+      "gloss": "soul, life; person",
       "strongs": "H5315",
       "freq": 2,
       "chapters": [
@@ -1723,7 +1723,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "סָגַר",
-      "gloss": "To shut up",
+      "gloss": "shut, close",
       "strongs": "H5462",
       "freq": 2,
       "chapters": [
@@ -1738,7 +1738,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "עוֹד",
-      "gloss": "Iteration or continuance",
+      "gloss": "still, yet; again",
       "strongs": "H5750",
       "freq": 2,
       "chapters": [
@@ -1754,7 +1754,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "עָלָה",
-      "gloss": "To go up, ascend",
+      "gloss": "go up, ascend",
       "strongs": "H5927",
       "freq": 2,
       "chapters": [
@@ -1769,7 +1769,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "עַתָּה",
-      "gloss": "Now",
+      "gloss": "now",
       "strongs": "H6258",
       "freq": 2,
       "chapters": [
@@ -1785,7 +1785,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "פֶּה",
-      "gloss": "Mouth",
+      "gloss": "mouth",
       "strongs": "H6310",
       "freq": 2,
       "chapters": [
@@ -1800,7 +1800,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "קוּם",
-      "gloss": "To arise, stand",
+      "gloss": "arise, stand up",
       "strongs": "H6965",
       "freq": 2,
       "chapters": [
@@ -1816,7 +1816,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "קָשַׁר",
-      "gloss": "To tie, physically (gird, confine, compact) or mentally (in love…",
+      "gloss": "tie, bind; conspire",
       "strongs": "H7194",
       "freq": 2,
       "chapters": [
@@ -1831,7 +1831,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "רֹאשׁ",
-      "gloss": "The head (as most easily shaken), whether literal or figurative",
+      "gloss": "head; top; chief",
       "strongs": "H7218",
       "freq": 2,
       "chapters": [
@@ -1845,7 +1845,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "רָחָב",
-      "gloss": "Rahab",
+      "gloss": "Rahab (of Jericho)",
       "strongs": "H7343",
       "freq": 2,
       "chapters": [
@@ -1860,7 +1860,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "שְׁבוּעָה",
-      "gloss": "Something sworn, i.e. an oath",
+      "gloss": "oath",
       "strongs": "H7621",
       "freq": 2,
       "chapters": [
@@ -1875,7 +1875,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "שָׁכַב",
-      "gloss": "To lie down",
+      "gloss": "lie down",
       "strongs": "H7901",
       "freq": 2,
       "chapters": [
@@ -1890,7 +1890,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "שָׂכַל",
-      "gloss": "To prosper, have insight",
+      "gloss": "have insight; prosper",
       "strongs": "H7919",
       "freq": 2,
       "chapters": [
@@ -1905,7 +1905,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "שָׁמַר",
-      "gloss": "To keep, guard, observe",
+      "gloss": "keep, guard, observe",
       "strongs": "H8104",
       "freq": 2,
       "chapters": [
@@ -1920,7 +1920,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "שֶׁמֶשׁ",
-      "gloss": "The sun",
+      "gloss": "sun",
       "strongs": "H8121",
       "freq": 2,
       "chapters": [
@@ -1935,7 +1935,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "שָׁנִי",
-      "gloss": "Crimson, properly, the insect or its color, also stuff dyed with it",
+      "gloss": "scarlet, crimson",
       "strongs": "H8144",
       "freq": 2,
       "chapters": [
@@ -1950,7 +1950,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "שַׁעַר",
-      "gloss": "Gate",
+      "gloss": "gate",
       "strongs": "H8179",
       "freq": 2,
       "chapters": [
@@ -1965,7 +1965,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "תּוֹרָה",
-      "gloss": "Law, Torah",
+      "gloss": "law, instruction",
       "strongs": "H8451",
       "freq": 2,
       "chapters": [
@@ -1980,7 +1980,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "תַּחַת",
-      "gloss": "Under, instead of",
+      "gloss": "under; instead of",
       "strongs": "H8478",
       "freq": 2,
       "chapters": [
@@ -1995,7 +1995,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "תִּקְוָה",
-      "gloss": "Literally a cord (as an attachment)",
+      "gloss": "cord; hope",
       "strongs": "H8615",
       "freq": 2,
       "chapters": [
@@ -2010,7 +2010,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "אוֹת",
-      "gloss": "Sign, mark, token",
+      "gloss": "sign",
       "strongs": "H226",
       "freq": 1,
       "chapters": [
@@ -2024,7 +2024,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "אֵימָה",
-      "gloss": "Fright",
+      "gloss": "terror, dread",
       "strongs": "H367",
       "freq": 1,
       "chapters": [
@@ -2038,7 +2038,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "אַיִן",
-      "gloss": "Where?",
+      "gloss": "where? (מֵאַיִן from where?)",
       "strongs": "H370",
       "freq": 1,
       "chapters": [
@@ -2052,7 +2052,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "אֱמֹרִי",
-      "gloss": "An Emorite, one of the Canaanitish tribes",
+      "gloss": "Amorite(s)",
       "strongs": "H567",
       "freq": 1,
       "chapters": [
@@ -2066,7 +2066,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "אָן",
-      "gloss": "Where?",
+      "gloss": "where? whither?",
       "strongs": "H575",
       "freq": 1,
       "chapters": [
@@ -2080,7 +2080,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "אָנֹכִי",
-      "gloss": "I (emphatic)",
+      "gloss": "I",
       "strongs": "H595",
       "freq": 1,
       "chapters": [
@@ -2094,7 +2094,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "אָסַף",
-      "gloss": "To gather for any purpose",
+      "gloss": "gather",
       "strongs": "H622",
       "freq": 1,
       "chapters": [
@@ -2108,7 +2108,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "אֵת",
-      "gloss": "With (nearness)",
+      "gloss": "with",
       "strongs": "H854",
       "freq": 1,
       "chapters": [
@@ -2122,7 +2122,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "בְּעַד",
-      "gloss": "In up to or over against",
+      "gloss": "through; on behalf of",
       "strongs": "H1157",
       "freq": 1,
       "chapters": [
@@ -2136,7 +2136,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "בָּקַשׁ",
-      "gloss": "To search out",
+      "gloss": "seek",
       "strongs": "H1245",
       "freq": 1,
       "chapters": [
@@ -2150,7 +2150,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "גְּבוּל",
-      "gloss": "A cord (as twisted), i.e. (by implication) a boundary",
+      "gloss": "border; territory",
       "strongs": "H1366",
       "freq": 1,
       "chapters": [
@@ -2164,7 +2164,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "גִּבּוֹר",
-      "gloss": "Mighty man, warrior",
+      "gloss": "mighty man, warrior",
       "strongs": "H1368",
       "freq": 1,
       "chapters": [
@@ -2178,7 +2178,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "גָּדִי",
-      "gloss": "A Gadite (collectively) or descendants of Gad",
+      "gloss": "Gadite(s)",
       "strongs": "H1425",
       "freq": 1,
       "chapters": [
@@ -2192,7 +2192,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "דָבַר",
-      "gloss": "Perhaps properly, to arrange",
+      "gloss": "speak",
       "strongs": "H1696",
       "freq": 1,
       "chapters": [
@@ -2206,7 +2206,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "דֶּלֶת",
-      "gloss": "Something swinging, i.e. the valve of adoor",
+      "gloss": "door",
       "strongs": "H1817",
       "freq": 1,
       "chapters": [
@@ -2220,7 +2220,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "דָּרַךְ",
-      "gloss": "To tread",
+      "gloss": "tread, march",
       "strongs": "H1869",
       "freq": 1,
       "chapters": [
@@ -2234,7 +2234,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "הָגָה",
-      "gloss": "To murmur (in pleasure or anger)",
+      "gloss": "meditate; murmur",
       "strongs": "H1897",
       "freq": 1,
       "chapters": [
@@ -2248,7 +2248,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "הָלַךְ",
-      "gloss": "To go, walk, come",
+      "gloss": "go, walk",
       "strongs": "H1980",
       "freq": 1,
       "chapters": [
@@ -2262,7 +2262,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "הֵנָּה",
-      "gloss": "Hither or thither (but used both of place and time)",
+      "gloss": "here, hither",
       "strongs": "H2008",
       "freq": 1,
       "chapters": [
@@ -2276,7 +2276,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "זֹאת",
-      "gloss": "This (often used adverb)",
+      "gloss": "this (fem.)",
       "strongs": "H2063",
       "freq": 1,
       "chapters": [
@@ -2290,7 +2290,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "זָכַר",
-      "gloss": "To remember",
+      "gloss": "remember",
       "strongs": "H2142",
       "freq": 1,
       "chapters": [
@@ -2304,7 +2304,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "זָנָה",
-      "gloss": "Harlot / to commit fornication",
+      "gloss": "commit harlotry; harlot",
       "strongs": "H2181",
       "freq": 1,
       "chapters": [
@@ -2318,7 +2318,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "חָבָה",
-      "gloss": "To secrete",
+      "gloss": "hide (oneself)",
       "strongs": "H2247",
       "freq": 1,
       "chapters": [
@@ -2332,7 +2332,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "חֶבֶל",
-      "gloss": "Cord, rope, portion",
+      "gloss": "cord, rope; region",
       "strongs": "H2256",
       "freq": 1,
       "chapters": [
@@ -2346,7 +2346,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "חוּט",
-      "gloss": "A string",
+      "gloss": "thread, cord",
       "strongs": "H2339",
       "freq": 1,
       "chapters": [
@@ -2360,7 +2360,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "חוּץ",
-      "gloss": "Separate by awall, i.e. outside, outdoors",
+      "gloss": "outside; street",
       "strongs": "H2351",
       "freq": 1,
       "chapters": [
@@ -2374,7 +2374,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "חַי",
-      "gloss": "Alive; hence, raw (flesh); fresh (plant, water, year), strong; also…",
+      "gloss": "alive, living",
       "strongs": "H2416",
       "freq": 1,
       "chapters": [
@@ -2388,7 +2388,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "חָיָה",
-      "gloss": "To live, keep alive",
+      "gloss": "live; preserve alive",
       "strongs": "H2421",
       "freq": 1,
       "chapters": [
@@ -2402,7 +2402,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "חַיִל",
-      "gloss": "Strength, army, wealth",
+      "gloss": "strength; army; wealth",
       "strongs": "H2428",
       "freq": 1,
       "chapters": [
@@ -2416,7 +2416,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "חָמֻשׁ",
-      "gloss": "Staunch, i.e. able-bodied soldiers",
+      "gloss": "armed, in battle array",
       "strongs": "H2571",
       "freq": 1,
       "chapters": [
@@ -2430,7 +2430,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "חֵצִי",
-      "gloss": "Half",
+      "gloss": "half",
       "strongs": "H2677",
       "freq": 1,
       "chapters": [
@@ -2444,7 +2444,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "חָרַם",
-      "gloss": "To devote to destruction",
+      "gloss": "devote to destruction",
       "strongs": "H2763",
       "freq": 1,
       "chapters": [
@@ -2458,7 +2458,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "חֶרֶשׁ",
-      "gloss": "Magical craft",
+      "gloss": "secretly, silently",
       "strongs": "H2791",
       "freq": 1,
       "chapters": [
@@ -2472,7 +2472,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "חֹשֶׁךְ",
-      "gloss": "The dark",
+      "gloss": "darkness",
       "strongs": "H2822",
       "freq": 1,
       "chapters": [
@@ -2486,7 +2486,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "חִתִּי",
-      "gloss": "A Chittite, or descendant of Cheth",
+      "gloss": "Hittite(s)",
       "strongs": "H2850",
       "freq": 1,
       "chapters": [
@@ -2500,7 +2500,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "חָתַת",
-      "gloss": "To be dismayed / shattered",
+      "gloss": "be dismayed, shattered",
       "strongs": "H2865",
       "freq": 1,
       "chapters": [
@@ -2514,7 +2514,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "טָמַן",
-      "gloss": "To hide (by covering over)",
+      "gloss": "hide",
       "strongs": "H2934",
       "freq": 1,
       "chapters": [
@@ -2528,7 +2528,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "טַף",
-      "gloss": "A family",
+      "gloss": "little children",
       "strongs": "H2945",
       "freq": 1,
       "chapters": [
@@ -2542,7 +2542,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "טֶרֶם",
-      "gloss": "Non-occurrence",
+      "gloss": "before; not yet",
       "strongs": "H2962",
       "freq": 1,
       "chapters": [
@@ -2556,7 +2556,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "יָבֵשׁ",
-      "gloss": "To dry up / be ashamed",
+      "gloss": "dry up; be dry",
       "strongs": "H3001",
       "freq": 1,
       "chapters": [
@@ -2570,7 +2570,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "יוֹמָם",
-      "gloss": "Daily",
+      "gloss": "by day, daytime",
       "strongs": "H3119",
       "freq": 1,
       "chapters": [
@@ -2584,7 +2584,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "יָמִין",
-      "gloss": "Right hand",
+      "gloss": "right hand; south",
       "strongs": "H3225",
       "freq": 1,
       "chapters": [
@@ -2598,7 +2598,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "יָצַב",
-      "gloss": "To place (any thing so as to stay)",
+      "gloss": "(Hith.) take one's stand",
       "strongs": "H3320",
       "freq": 1,
       "chapters": [
@@ -2612,7 +2612,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "יְרֻשָּׁה",
-      "gloss": "Something occupied",
+      "gloss": "possession, inheritance",
       "strongs": "H3425",
       "freq": 1,
       "chapters": [
@@ -2626,7 +2626,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "כּוּן",
-      "gloss": "To be erect (i.e. stand perpendicular)",
+      "gloss": "be firm; (Hiph.) prepare",
       "strongs": "H3559",
       "freq": 1,
       "chapters": [
@@ -2640,7 +2640,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "כַּף",
-      "gloss": "The hollow hand or palm",
+      "gloss": "palm; sole (of foot)",
       "strongs": "H3709",
       "freq": 1,
       "chapters": [
@@ -2654,7 +2654,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "כָּתַב",
-      "gloss": "To grave, by implication, to write",
+      "gloss": "write",
       "strongs": "H3789",
       "freq": 1,
       "chapters": [
@@ -2668,7 +2668,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "לֵבָב",
-      "gloss": "The heart (as the most interior organ)",
+      "gloss": "heart",
       "strongs": "H3824",
       "freq": 1,
       "chapters": [
@@ -2682,7 +2682,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "לְבָנוֹן",
-      "gloss": "Lebanon, a mountain range in Palestine",
+      "gloss": "Lebanon (mountains)",
       "strongs": "H3844",
       "freq": 1,
       "chapters": [
@@ -2696,7 +2696,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "לָקַח",
-      "gloss": "To take",
+      "gloss": "take",
       "strongs": "H3947",
       "freq": 1,
       "chapters": [
@@ -2710,7 +2710,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "מְאֹד",
-      "gloss": "Vehemence, i.e. (with or without preposition) vehemently",
+      "gloss": "very, exceedingly",
       "strongs": "H3966",
       "freq": 1,
       "chapters": [
@@ -2724,7 +2724,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "מָבוֹא",
-      "gloss": "An entrance (the place or the act)",
+      "gloss": "entrance; setting (of sun)",
       "strongs": "H3996",
       "freq": 1,
       "chapters": [
@@ -2738,7 +2738,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "מִדְבָּר",
-      "gloss": "Wilderness",
+      "gloss": "wilderness, desert",
       "strongs": "H4057",
       "freq": 1,
       "chapters": [
@@ -2752,7 +2752,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "מַהֵר",
-      "gloss": "Hurrying",
+      "gloss": "quickly",
       "strongs": "H4118",
       "freq": 1,
       "chapters": [
@@ -2766,7 +2766,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "מוּשׁ",
-      "gloss": "To withdraw",
+      "gloss": "depart, withdraw",
       "strongs": "H4185",
       "freq": 1,
       "chapters": [
@@ -2780,7 +2780,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "מִזְרָח",
-      "gloss": "Sunrise, i.e. the east",
+      "gloss": "east; sunrise",
       "strongs": "H4217",
       "freq": 1,
       "chapters": [
@@ -2794,7 +2794,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "מַחֲנֶה",
-      "gloss": "Camp, encampment",
+      "gloss": "camp",
       "strongs": "H4264",
       "freq": 1,
       "chapters": [
@@ -2808,7 +2808,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "מַיִם",
-      "gloss": "Water; figuratively, juice; by euphemism, urine, semen",
+      "gloss": "water",
       "strongs": "H4325",
       "freq": 1,
       "chapters": [
@@ -2822,7 +2822,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "מְנַשֶּׁה",
-      "gloss": "Menashsheh, a grandson of Jacob, also the tribe descended from him…",
+      "gloss": "Manasseh (tribe)",
       "strongs": "H4519",
       "freq": 1,
       "chapters": [
@@ -2836,7 +2836,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "מָסַס",
-      "gloss": "To liquefy",
+      "gloss": "melt, dissolve",
       "strongs": "H4549",
       "freq": 1,
       "chapters": [
@@ -2850,7 +2850,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "מַעֲבָר",
-      "gloss": "A crossing-place (of a river, a ford",
+      "gloss": "ford, crossing",
       "strongs": "H4569",
       "freq": 1,
       "chapters": [
@@ -2864,7 +2864,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "מַעַל",
-      "gloss": "The upper part, used only adverbially with prefix upward, above…",
+      "gloss": "above, upward",
       "strongs": "H4605",
       "freq": 1,
       "chapters": [
@@ -2878,7 +2878,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "מִצְרַיִם",
-      "gloss": "Mitsrajim, i.e. Upper and Lower Egypt",
+      "gloss": "Egypt",
       "strongs": "H4714",
       "freq": 1,
       "chapters": [
@@ -2892,7 +2892,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "מָקוֹם",
-      "gloss": "A standing, i.e. a spot",
+      "gloss": "place",
       "strongs": "H4725",
       "freq": 1,
       "chapters": [
@@ -2906,7 +2906,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "מִקְנֶה",
-      "gloss": "Something bought, i.e. property, but only livestock",
+      "gloss": "livestock, cattle",
       "strongs": "H4735",
       "freq": 1,
       "chapters": [
@@ -2920,7 +2920,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "מָרָה",
-      "gloss": "To be (causatively, make) bitter (or unpleasant)",
+      "gloss": "rebel (against)",
       "strongs": "H4784",
       "freq": 1,
       "chapters": [
@@ -2934,7 +2934,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "נָא",
-      "gloss": "'I pray', 'now', or 'then'",
+      "gloss": "please, I pray",
       "strongs": "H4994",
       "freq": 1,
       "chapters": [
@@ -2948,7 +2948,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "נָחַל",
-      "gloss": "To inherit, possess",
+      "gloss": "inherit; (Hiph.) give inheritance",
       "strongs": "H5157",
       "freq": 1,
       "chapters": [
@@ -2962,7 +2962,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "נָפַל",
-      "gloss": "To fall",
+      "gloss": "fall",
       "strongs": "H5307",
       "freq": 1,
       "chapters": [
@@ -2976,7 +2976,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "נָצַל",
-      "gloss": "To snatch away, whether in a good or a bad sense",
+      "gloss": "deliver, rescue",
       "strongs": "H5337",
       "freq": 1,
       "chapters": [
@@ -2990,7 +2990,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "נָשַׂג",
-      "gloss": "To reach (literally or figuratively)",
+      "gloss": "overtake, reach",
       "strongs": "H5381",
       "freq": 1,
       "chapters": [
@@ -3004,7 +3004,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "סוּף",
-      "gloss": "A reed, especially the papyrus",
+      "gloss": "reeds; (Yam Suph) Red Sea",
       "strongs": "H5488",
       "freq": 1,
       "chapters": [
@@ -3018,7 +3018,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "סוּר",
-      "gloss": "To turn aside, remove",
+      "gloss": "turn aside; remove",
       "strongs": "H5493",
       "freq": 1,
       "chapters": [
@@ -3032,7 +3032,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "סִיחוֹן",
-      "gloss": "Sichon, an Amoritish king",
+      "gloss": "Sihon (Amorite king)",
       "strongs": "H5511",
       "freq": 1,
       "chapters": [
@@ -3046,7 +3046,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "סָפַר",
-      "gloss": "To score with a mark as a tally or record, i.e. (by implication) to…",
+      "gloss": "count; (Piel) recount, tell",
       "strongs": "H5608",
       "freq": 1,
       "chapters": [
@@ -3060,7 +3060,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "סֵפֶר",
-      "gloss": "Scroll, book",
+      "gloss": "book, scroll",
       "strongs": "H5612",
       "freq": 1,
       "chapters": [
@@ -3074,7 +3074,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "עוֹג",
-      "gloss": "Og, a king of Bashan",
+      "gloss": "Og (king of Bashan)",
       "strongs": "H5747",
       "freq": 1,
       "chapters": [
@@ -3088,7 +3088,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "עָזַב",
-      "gloss": "To loosen, i.e. relinquish, permit, etc",
+      "gloss": "leave, forsake",
       "strongs": "H5800",
       "freq": 1,
       "chapters": [
@@ -3102,7 +3102,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "עָזַר",
-      "gloss": "To surround, i.e. protect or aid",
+      "gloss": "help",
       "strongs": "H5826",
       "freq": 1,
       "chapters": [
@@ -3116,7 +3116,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "עָנָה",
-      "gloss": "To answer, respond",
+      "gloss": "answer",
       "strongs": "H6030",
       "freq": 1,
       "chapters": [
@@ -3130,7 +3130,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "עֵץ",
-      "gloss": "A tree (from its firmness)",
+      "gloss": "tree; wood",
       "strongs": "H6086",
       "freq": 1,
       "chapters": [
@@ -3144,7 +3144,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "עָרַךְ",
-      "gloss": "To set in a row, i.e. arrange, put in order (in a very wide variety…",
+      "gloss": "arrange, set in order",
       "strongs": "H6186",
       "freq": 1,
       "chapters": [
@@ -3158,7 +3158,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "עָרַץ",
-      "gloss": "To tremble, terrify",
+      "gloss": "tremble; be terrified",
       "strongs": "H6206",
       "freq": 1,
       "chapters": [
@@ -3172,7 +3172,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "פָּגַע",
-      "gloss": "To impinge, by accident or violence, or (figuratively) by importunity",
+      "gloss": "meet, encounter; entreat",
       "strongs": "H6293",
       "freq": 1,
       "chapters": [
@@ -3186,7 +3186,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "פֵּן",
-      "gloss": "Lest",
+      "gloss": "lest",
       "strongs": "H6435",
       "freq": 1,
       "chapters": [
@@ -3200,7 +3200,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "פְּרָת",
-      "gloss": "Perath (i.e. Euphrates), a river of the East",
+      "gloss": "Euphrates (river)",
       "strongs": "H6578",
       "freq": 1,
       "chapters": [
@@ -3214,7 +3214,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "פִּשְׁתֶּה",
-      "gloss": "Linen (i.e. the thread, as carded)",
+      "gloss": "flax, linen",
       "strongs": "H6593",
       "freq": 1,
       "chapters": [
@@ -3228,7 +3228,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "צֵידָה",
-      "gloss": "Food",
+      "gloss": "provisions (for journey)",
       "strongs": "H6720",
       "freq": 1,
       "chapters": [
@@ -3242,7 +3242,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "צָלַח",
-      "gloss": "To succeed, prosper",
+      "gloss": "succeed, prosper",
       "strongs": "H6743",
       "freq": 1,
       "chapters": [
@@ -3256,7 +3256,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "צָפַן",
-      "gloss": "To hide (by covering over)",
+      "gloss": "hide, treasure up",
       "strongs": "H6845",
       "freq": 1,
       "chapters": [
@@ -3270,7 +3270,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "קִיר",
-      "gloss": "A wall (as built in a trench)",
+      "gloss": "wall",
       "strongs": "H7023",
       "freq": 1,
       "chapters": [
@@ -3284,7 +3284,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "קֶרֶב",
-      "gloss": "Inward part, midst",
+      "gloss": "midst; inner part",
       "strongs": "H7130",
       "freq": 1,
       "chapters": [
@@ -3298,7 +3298,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "רָאָה",
-      "gloss": "To see",
+      "gloss": "see",
       "strongs": "H7200",
       "freq": 1,
       "chapters": [
@@ -3312,7 +3312,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "רְאוּבֵנִי",
-      "gloss": "A Reubenite or descendant of Reuben",
+      "gloss": "Reubenite(s)",
       "strongs": "H7206",
       "freq": 1,
       "chapters": [
@@ -3326,7 +3326,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "רָגַל",
-      "gloss": "To spy",
+      "gloss": "(Piel) spy out",
       "strongs": "H7270",
       "freq": 1,
       "chapters": [
@@ -3340,7 +3340,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "רֶגֶל",
-      "gloss": "A foot (as used in walking)",
+      "gloss": "foot",
       "strongs": "H7272",
       "freq": 1,
       "chapters": [
@@ -3354,7 +3354,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "רוּחַ",
-      "gloss": "Wind; by resemblance breath, i.e. a sensible (or even violent)…",
+      "gloss": "spirit; wind, breath",
       "strongs": "H7307",
       "freq": 1,
       "chapters": [
@@ -3368,7 +3368,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "רָפָה",
-      "gloss": "To slacken",
+      "gloss": "slacken; (Hiph.) abandon",
       "strongs": "H7503",
       "freq": 1,
       "chapters": [
@@ -3382,7 +3382,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "שֵׁבֶט",
-      "gloss": "Tribe, rod, staff",
+      "gloss": "tribe; rod, staff",
       "strongs": "H7626",
       "freq": 1,
       "chapters": [
@@ -3396,7 +3396,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "שִׁטִּים",
-      "gloss": "Shittim, a place East of the Jordan",
+      "gloss": "Shittim (place)",
       "strongs": "H7851",
       "freq": 1,
       "chapters": [
@@ -3410,7 +3410,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "שֹׁטֵר",
-      "gloss": "A scribe, i.e. (by analogy or implication) an official superintendent…",
+      "gloss": "officer, official",
       "strongs": "H7860",
       "freq": 1,
       "chapters": [
@@ -3424,7 +3424,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "שֵׁם",
-      "gloss": "An appellation, as amark or memorial of individuality",
+      "gloss": "name",
       "strongs": "H8034",
       "freq": 1,
       "chapters": [
@@ -3438,7 +3438,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "שְׂמֹאול",
-      "gloss": "Left (hand)",
+      "gloss": "left (hand, side)",
       "strongs": "H8040",
       "freq": 1,
       "chapters": [
@@ -3452,7 +3452,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "שָׁמַיִם",
-      "gloss": "The sky (as aloft",
+      "gloss": "heaven(s), sky",
       "strongs": "H8064",
       "freq": 1,
       "chapters": [
@@ -3466,7 +3466,7 @@ window.JOSH_VOCAB = {
     },
     {
       "lemma": "שָׁרַת",
-      "gloss": "To serve, minister",
+      "gloss": "minister, serve; attendant",
       "strongs": "H8334",
       "freq": 1,
       "chapters": [
