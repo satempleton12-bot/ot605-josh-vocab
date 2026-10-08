@@ -24,7 +24,7 @@
     </header>
 
     <section id="setup" class="panel">
-      <p class="hint">Practice the lemmas of <strong>Joshua 1–2</strong> (default: 1:1–2:14, covered in class). Tap the card to flip. Mark <strong>Got it</strong> or <strong>Missed</strong> for a review pile.</p>
+      <p class="hint">Practice the lemmas of <strong>Joshua 1–2</strong> (default: 1:1–2:14, covered in class). Tap the card to flip, then rate it <strong>1–4</strong>. Weak words come first and repeat until you know them.</p>
 
       <label class="field">Direction
         <select id="modeSelect" aria-label="Quiz direction">
@@ -42,17 +42,33 @@
           <option value="ch2">Chapter 2 only</option>
           <option value="both">In both chapters</option>
           <option value="hard">Hard only (≤2× in Josh 1–2)</option>
+          <option value="weak">Rated 1–2 only (weak words)</option>
+          <option value="unrated">Not yet rated</option>
         </select>
       </label>
 
+      <label class="field">Study order
+        <select id="orderSelect" aria-label="Study order">
+          <option value="weak" selected>Weakest first</option>
+          <option value="shuffle">Shuffle</option>
+        </select>
+      </label>
+
+      <div class="mastery" id="mastery" aria-label="Mastery summary for this filter">
+        <div class="mbar" id="masteryBar"></div>
+        <div class="mlegend" id="masteryLegend"></div>
+      </div>
+
       <p class="status" id="status" aria-live="polite"></p>
       <button type="button" class="btn" id="startBtn">Start quiz</button>
+      <button type="button" class="linkbtn reset" id="resetBtn">Reset ratings</button>
     </section>
 
     <section id="quiz" class="panel" hidden>
       <div class="quiz-bar">
         <span id="quizTitle">Quiz</span>
         <span class="progress" id="progress">0/0</span>
+        <button type="button" class="linkbtn" id="endBtn">End</button>
       </div>
 
       <button type="button" class="flip-scene" id="flipCard" aria-label="Flip card">
@@ -71,18 +87,24 @@
         </div>
       </button>
 
-      <div class="actions" id="gradeRow" hidden>
-        <button type="button" class="btn ok" id="gotItBtn">Got it</button>
-        <button type="button" class="btn secondary" id="missedBtn">Missed</button>
+      <div class="rate-row" id="gradeRow" hidden>
+        <button type="button" class="rate r1" data-rate="1"><b>1</b><span>Don’t know</span></button>
+        <button type="button" class="rate r2" data-rate="2"><b>2</b><span>Hard</span></button>
+        <button type="button" class="rate r3" data-rate="3"><b>3</b><span>Good</span></button>
+        <button type="button" class="rate r4" data-rate="4"><b>4</b><span>Know it</span></button>
       </div>
     </section>
 
     <section id="results" class="panel" hidden>
-      <p class="score" id="scoreLine">Score</p>
+      <p class="score" id="scoreLine">Session done</p>
+      <div class="mastery" aria-label="Ratings this session">
+        <div class="mbar" id="sessionBar"></div>
+        <div class="mlegend" id="sessionLegend"></div>
+      </div>
       <p class="review" id="reviewLine"></p>
-      <button type="button" class="btn" id="againBtn">Review missed</button>
+      <button type="button" class="btn" id="weakBtn">Study weak words (1–2)</button>
       <div class="row">
-        <button type="button" class="btn secondary" id="fullAgainBtn">Full quiz</button>
+        <button type="button" class="btn secondary" id="fullAgainBtn">Study again</button>
         <button type="button" class="btn ghost" id="homeBtn">Home</button>
       </div>
     </section>

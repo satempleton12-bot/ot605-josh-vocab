@@ -9,9 +9,9 @@ css = (H / "styles.css").read_text(encoding="utf-8")
 vocab = (H / "vocab.js").read_text(encoding="utf-8")
 app = (H / "app.js").read_text(encoding="utf-8")
 
-# Remove the whole serviceWorker registration block (balanced if { ... })
-app, n = re.subn(r'\n\s*if \("serviceWorker" in navigator\) \{\s*navigator\.serviceWorker\.register\([^;]*\);\s*\}\n', "\n", app)
-assert n == 1, "serviceWorker block not found exactly once"
+# Remove the service-worker block between /* SW-START */ and /* SW-END */ markers
+app, n = re.subn(r"\n[ \t]*/\* SW-START \*/.*?/\* SW-END \*/[ \t]*\n", "\n", app, flags=re.S)
+assert n == 1, "SW-START/SW-END block not found exactly once"
 assert "serviceWorker" not in app
 
 html = re.sub(r'\s*<link rel="(manifest|apple-touch-icon|icon|stylesheet)"[^>]*>', "", html)

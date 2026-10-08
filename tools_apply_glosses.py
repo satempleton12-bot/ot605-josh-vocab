@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Apply curated flashcard glosses (glosses.json) to vocab.js; every lemma must be covered."""
+"""Apply curated flashcard glosses (glosses.json) and headword overrides (headwords.json) to vocab.js; every lemma must have a gloss."""
 import json, re
 from pathlib import Path
 H = Path(__file__).resolve().parent
@@ -10,7 +10,12 @@ data = json.loads(src[i:].rstrip().rstrip(";"))
 missing = [w["strongs"] for w in data["words"] if w["strongs"] not in G]
 extra = sorted(set(G) - {w["strongs"] for w in data["words"]})
 assert not missing and not extra, (missing, extra)
+HW = {k: v for k, v in json.loads((H / "headwords.json").read_text(encoding="utf-8")).items() if not k.startswith("_")}
 changes = []
+for w in data["words"]:
+    if w["strongs"] in HW and w["lemma"] != HW[w["strongs"]]:
+        print(f"headword {w['strongs']}: {w['lemma']} -> {HW[w['strongs']]}")
+        w["lemma"] = HW[w["strongs"]]
 for w in data["words"]:
     if w["gloss"] != G[w["strongs"]]:
         changes.append((w["strongs"], w["lemma"], w["gloss"], G[w["strongs"]]))

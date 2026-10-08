@@ -274,3 +274,91 @@ select:focus {
 @media (prefers-reduced-motion: reduce) {
   .flip-inner { transition: none; }
 }
+
+/* ---- 1–4 ratings ---- */
+:root {
+  --r0: #3a4756;
+  --r1: #f07178;
+  --r2: #f5a25d;
+  --r3: #c9d65b;
+  --r4: #3dcc8c;
+}
+.rate-row {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+  margin-top: auto;
+}
+.rate-row[hidden] { display: none !important; }
+.rate {
+  appearance: none;
+  border: none;
+  border-radius: 14px;
+  min-height: 68px;
+  padding: 8px 4px;
+  font: inherit;
+  color: #0a1220;
+  cursor: pointer;
+  touch-action: manipulation;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+}
+.rate:active { transform: scale(0.96); }
+.rate b { font-size: 1.35rem; line-height: 1; }
+.rate span { font-size: 0.78rem; font-weight: 600; line-height: 1.1; text-align: center; }
+.rate.r1 { background: var(--r1); }
+.rate.r2 { background: var(--r2); }
+.rate.r3 { background: var(--r3); }
+.rate.r4 { background: var(--r4); }
+
+.mastery { display: flex; flex-direction: column; gap: 6px; }
+.mbar {
+  display: flex;
+  height: 12px;
+  border-radius: 6px;
+  overflow: hidden;
+  background: var(--bg2);
+}
+.mbar > i { display: block; height: 100%; }
+.mlegend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 12px;
+  font-size: 0.78rem;
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+}
+.mlegend span::before {
+  content: "";
+  display: inline-block;
+  width: 9px;
+  height: 9px;
+  border-radius: 2px;
+  margin-right: 4px;
+  background: var(--c);
+}
+.c0 { --c: var(--r0); background: var(--r0); }
+.c1 { --c: var(--r1); background: var(--r1); }
+.c2 { --c: var(--r2); background: var(--r2); }
+.c3 { --c: var(--r3); background: var(--r3); }
+.c4 { --c: var(--r4); background: var(--r4); }
+.mlegend span { background: none; }
+
+.linkbtn {
+  appearance: none;
+  background: none;
+  border: none;
+  color: var(--muted);
+  font: inherit;
+  font-size: 0.85rem;
+  padding: 8px 4px;
+  cursor: pointer;
+  text-decoration: underline;
+  touch-action: manipulation;
+}
+.linkbtn.reset { margin-top: 24px; align-self: center; font-size: 0.8rem; opacity: 0.8; }
+.quiz-bar { gap: 8px; }
+.quiz-bar #quizTitle { flex: 1; }
