@@ -11,7 +11,34 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:2",
+        "1:6",
+        "1:8",
+        "1:10",
+        "1:11",
+        "1:13",
+        "1:14",
+        "1:15",
+        "1:16",
+        "1:18",
+        "2:1",
+        "2:2",
+        "2:3",
+        "2:4",
+        "2:9",
+        "2:10",
+        "2:13",
+        "2:14",
+        "2:18",
+        "2:20",
+        "2:21",
+        "2:23",
+        "2:24"
+      ],
+      "thru214": true,
+      "freq214": 34
     },
     {
       "lemma": "אֲשֶׁר",
@@ -21,7 +48,32 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:2",
+        "1:3",
+        "1:5",
+        "1:6",
+        "1:7",
+        "1:9",
+        "1:11",
+        "1:13",
+        "1:14",
+        "1:15",
+        "1:16",
+        "1:17",
+        "1:18",
+        "2:3",
+        "2:7",
+        "2:10",
+        "2:13",
+        "2:17",
+        "2:18",
+        "2:19",
+        "2:20"
+      ],
+      "thru214": true,
+      "freq214": 27
     },
     {
       "lemma": "כֹּל",
@@ -31,7 +83,30 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:2",
+        "1:3",
+        "1:4",
+        "1:5",
+        "1:7",
+        "1:8",
+        "1:9",
+        "1:14",
+        "1:16",
+        "1:17",
+        "1:18",
+        "2:3",
+        "2:9",
+        "2:13",
+        "2:18",
+        "2:19",
+        "2:22",
+        "2:23",
+        "2:24"
+      ],
+      "thru214": true,
+      "freq214": 17
     },
     {
       "lemma": "אָמַר",
@@ -41,7 +116,27 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:1",
+        "1:10",
+        "1:11",
+        "1:12",
+        "1:13",
+        "1:16",
+        "2:1",
+        "2:2",
+        "2:3",
+        "2:4",
+        "2:9",
+        "2:14",
+        "2:16",
+        "2:17",
+        "2:21",
+        "2:24"
+      ],
+      "thru214": true,
+      "freq214": 15
     },
     {
       "lemma": "אֶרֶץ",
@@ -51,7 +146,26 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:2",
+        "1:4",
+        "1:6",
+        "1:11",
+        "1:13",
+        "1:14",
+        "1:15",
+        "2:1",
+        "2:2",
+        "2:3",
+        "2:9",
+        "2:11",
+        "2:14",
+        "2:18",
+        "2:24"
+      ],
+      "thru214": true,
+      "freq214": 15
     },
     {
       "lemma": "יְהֹוָה",
@@ -61,7 +175,23 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:1",
+        "1:9",
+        "1:11",
+        "1:13",
+        "1:15",
+        "1:17",
+        "2:9",
+        "2:10",
+        "2:11",
+        "2:12",
+        "2:14",
+        "2:24"
+      ],
+      "thru214": true,
+      "freq214": 15
     },
     {
       "lemma": "אִישׁ",
@@ -71,7 +201,24 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:5",
+        "1:18",
+        "2:1",
+        "2:2",
+        "2:3",
+        "2:4",
+        "2:5",
+        "2:7",
+        "2:9",
+        "2:11",
+        "2:14",
+        "2:17",
+        "2:23"
+      ],
+      "thru214": true,
+      "freq214": 13
     },
     {
       "lemma": "אֵל",
@@ -81,7 +228,23 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:1",
+        "1:2",
+        "1:3",
+        "1:16",
+        "1:17",
+        "2:3",
+        "2:4",
+        "2:9",
+        "2:17",
+        "2:18",
+        "2:23",
+        "2:24"
+      ],
+      "thru214": true,
+      "freq214": 10
     },
     {
       "lemma": "כִּי",
@@ -91,7 +254,23 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:6",
+        "1:8",
+        "1:9",
+        "1:11",
+        "2:3",
+        "2:5",
+        "2:9",
+        "2:10",
+        "2:11",
+        "2:12",
+        "2:15",
+        "2:24"
+      ],
+      "thru214": true,
+      "freq214": 12
     },
     {
       "lemma": "הָיָה",
@@ -101,7 +280,19 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:1",
+        "1:4",
+        "1:5",
+        "1:17",
+        "2:5",
+        "2:14",
+        "2:19",
+        "2:20"
+      ],
+      "thru214": true,
+      "freq214": 8
     },
     {
       "lemma": "נָתַן",
@@ -111,7 +302,22 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:2",
+        "1:3",
+        "1:6",
+        "1:11",
+        "1:13",
+        "1:14",
+        "1:15",
+        "2:9",
+        "2:12",
+        "2:14",
+        "2:24"
+      ],
+      "thru214": true,
+      "freq214": 11
     },
     {
       "lemma": "לֹא",
@@ -121,7 +327,20 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:5",
+        "1:8",
+        "1:9",
+        "1:18",
+        "2:4",
+        "2:5",
+        "2:11",
+        "2:14",
+        "2:22"
+      ],
+      "thru214": true,
+      "freq214": 10
     },
     {
       "lemma": "מֹשֶׁה",
@@ -130,7 +349,20 @@ window.JOSH_VOCAB = {
       "freq": 11,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:1",
+        "1:2",
+        "1:3",
+        "1:5",
+        "1:7",
+        "1:13",
+        "1:14",
+        "1:15",
+        "1:17"
+      ],
+      "thru214": true,
+      "freq214": 11
     },
     {
       "lemma": "בּוֹא",
@@ -140,7 +372,19 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:11",
+        "2:1",
+        "2:2",
+        "2:3",
+        "2:4",
+        "2:18",
+        "2:22",
+        "2:23"
+      ],
+      "thru214": true,
+      "freq214": 7
     },
     {
       "lemma": "זֶה",
@@ -150,7 +394,20 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:2",
+        "1:4",
+        "1:6",
+        "1:8",
+        "1:11",
+        "2:14",
+        "2:17",
+        "2:18",
+        "2:20"
+      ],
+      "thru214": true,
+      "freq214": 7
     },
     {
       "lemma": "יָלַךְ",
@@ -160,7 +417,18 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:7",
+        "1:9",
+        "1:16",
+        "2:1",
+        "2:16",
+        "2:21",
+        "2:22"
+      ],
+      "thru214": true,
+      "freq214": 5
     },
     {
       "lemma": "בַּיִת",
@@ -169,7 +437,17 @@ window.JOSH_VOCAB = {
       "freq": 8,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:1",
+        "2:3",
+        "2:12",
+        "2:15",
+        "2:18",
+        "2:19"
+      ],
+      "thru214": true,
+      "freq214": 3
     },
     {
       "lemma": "עִם",
@@ -179,7 +457,16 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:5",
+        "1:9",
+        "1:17",
+        "2:12",
+        "2:14"
+      ],
+      "thru214": true,
+      "freq214": 8
     },
     {
       "lemma": "אֱלֹהִים",
@@ -189,7 +476,17 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:9",
+        "1:11",
+        "1:13",
+        "1:15",
+        "1:17",
+        "2:11"
+      ],
+      "thru214": true,
+      "freq214": 7
     },
     {
       "lemma": "יְהוֹשׁוּעַ",
@@ -199,7 +496,18 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:1",
+        "1:10",
+        "1:12",
+        "1:16",
+        "2:1",
+        "2:23",
+        "2:24"
+      ],
+      "thru214": true,
+      "freq214": 5
     },
     {
       "lemma": "עָשָׂה",
@@ -209,7 +517,17 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:7",
+        "1:8",
+        "1:16",
+        "2:10",
+        "2:12",
+        "2:14"
+      ],
+      "thru214": true,
+      "freq214": 7
     },
     {
       "lemma": "צָוָה",
@@ -218,7 +536,18 @@ window.JOSH_VOCAB = {
       "freq": 7,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:7",
+        "1:9",
+        "1:10",
+        "1:11",
+        "1:13",
+        "1:16",
+        "1:18"
+      ],
+      "thru214": true,
+      "freq214": 7
     },
     {
       "lemma": "רָדַף",
@@ -227,7 +556,15 @@ window.JOSH_VOCAB = {
       "freq": 7,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:5",
+        "2:7",
+        "2:16",
+        "2:22"
+      ],
+      "thru214": true,
+      "freq214": 3
     },
     {
       "lemma": "אַחַר",
@@ -237,7 +574,15 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:1",
+        "2:5",
+        "2:7",
+        "2:16"
+      ],
+      "thru214": true,
+      "freq214": 5
     },
     {
       "lemma": "יַרְדֵּן",
@@ -247,7 +592,17 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:2",
+        "1:11",
+        "1:14",
+        "1:15",
+        "2:7",
+        "2:10"
+      ],
+      "thru214": true,
+      "freq214": 6
     },
     {
       "lemma": "עַל",
@@ -256,7 +611,16 @@ window.JOSH_VOCAB = {
       "freq": 6,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:6",
+        "2:7",
+        "2:8",
+        "2:9",
+        "2:11"
+      ],
+      "thru214": true,
+      "freq214": 6
     },
     {
       "lemma": "פָּנִים",
@@ -266,7 +630,17 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:5",
+        "1:14",
+        "2:9",
+        "2:10",
+        "2:11",
+        "2:24"
+      ],
+      "thru214": true,
+      "freq214": 5
     },
     {
       "lemma": "אָב",
@@ -276,7 +650,15 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:6",
+        "2:12",
+        "2:13",
+        "2:18"
+      ],
+      "thru214": true,
+      "freq214": 3
     },
     {
       "lemma": "אַתָּה",
@@ -286,7 +668,16 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:2",
+        "1:6",
+        "1:11",
+        "1:14",
+        "2:12"
+      ],
+      "thru214": true,
+      "freq214": 5
     },
     {
       "lemma": "בֵּן",
@@ -296,7 +687,16 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:1",
+        "1:2",
+        "2:1",
+        "2:2",
+        "2:23"
+      ],
+      "thru214": true,
+      "freq214": 4
     },
     {
       "lemma": "דָּבָר",
@@ -306,7 +706,16 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:13",
+        "1:18",
+        "2:14",
+        "2:20",
+        "2:21"
+      ],
+      "thru214": true,
+      "freq214": 3
     },
     {
       "lemma": "הוּא",
@@ -315,7 +724,16 @@ window.JOSH_VOCAB = {
       "freq": 5,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:6",
+        "2:8",
+        "2:11",
+        "2:15",
+        "2:21"
+      ],
+      "thru214": true,
+      "freq214": 3
     },
     {
       "lemma": "יָצָא",
@@ -324,7 +742,16 @@ window.JOSH_VOCAB = {
       "freq": 5,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:3",
+        "2:5",
+        "2:7",
+        "2:10",
+        "2:19"
+      ],
+      "thru214": true,
+      "freq214": 4
     },
     {
       "lemma": "יָשַׁב",
@@ -334,7 +761,16 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:14",
+        "2:9",
+        "2:15",
+        "2:22",
+        "2:24"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "עֶבֶד",
@@ -343,7 +779,16 @@ window.JOSH_VOCAB = {
       "freq": 5,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:1",
+        "1:2",
+        "1:7",
+        "1:13",
+        "1:15"
+      ],
+      "thru214": true,
+      "freq214": 5
     },
     {
       "lemma": "עָבַר",
@@ -353,7 +798,15 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:2",
+        "1:11",
+        "1:14",
+        "2:23"
+      ],
+      "thru214": true,
+      "freq214": 4
     },
     {
       "lemma": "עַד",
@@ -363,7 +816,15 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:4",
+        "1:15",
+        "2:16",
+        "2:22"
+      ],
+      "thru214": true,
+      "freq214": 3
     },
     {
       "lemma": "שָׁמַע",
@@ -373,7 +834,15 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:17",
+        "1:18",
+        "2:10",
+        "2:11"
+      ],
+      "thru214": true,
+      "freq214": 5
     },
     {
       "lemma": "אָח",
@@ -383,7 +852,15 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:14",
+        "1:15",
+        "2:13",
+        "2:18"
+      ],
+      "thru214": true,
+      "freq214": 3
     },
     {
       "lemma": "אָמַץ",
@@ -392,7 +869,15 @@ window.JOSH_VOCAB = {
       "freq": 4,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:6",
+        "1:7",
+        "1:9",
+        "1:18"
+      ],
+      "thru214": true,
+      "freq214": 4
     },
     {
       "lemma": "דֶּרֶךְ",
@@ -402,7 +887,15 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:8",
+        "2:7",
+        "2:16",
+        "2:22"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "חָזַק",
@@ -411,7 +904,15 @@ window.JOSH_VOCAB = {
       "freq": 4,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:6",
+        "1:7",
+        "1:9",
+        "1:18"
+      ],
+      "thru214": true,
+      "freq214": 4
     },
     {
       "lemma": "יוֹם",
@@ -421,7 +922,15 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:5",
+        "1:11",
+        "2:16",
+        "2:22"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "יָרַשׁ",
@@ -430,7 +939,13 @@ window.JOSH_VOCAB = {
       "freq": 4,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:11",
+        "1:15"
+      ],
+      "thru214": true,
+      "freq214": 4
     },
     {
       "lemma": "עַם",
@@ -439,7 +954,15 @@ window.JOSH_VOCAB = {
       "freq": 4,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:2",
+        "1:6",
+        "1:10",
+        "1:11"
+      ],
+      "thru214": true,
+      "freq214": 4
     },
     {
       "lemma": "שָׁבַע",
@@ -449,7 +972,15 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:6",
+        "2:12",
+        "2:17",
+        "2:20"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "שׁוּב",
@@ -459,7 +990,15 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:15",
+        "2:16",
+        "2:22",
+        "2:23"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "שָׁלַח",
@@ -469,7 +1008,15 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:16",
+        "2:1",
+        "2:3",
+        "2:21"
+      ],
+      "thru214": true,
+      "freq214": 3
     },
     {
       "lemma": "שְׁנַיִם",
@@ -478,7 +1025,15 @@ window.JOSH_VOCAB = {
       "freq": 4,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:1",
+        "2:4",
+        "2:10",
+        "2:23"
+      ],
+      "thru214": true,
+      "freq214": 3
     },
     {
       "lemma": "אַל",
@@ -487,7 +1042,13 @@ window.JOSH_VOCAB = {
       "freq": 3,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:7",
+        "1:9"
+      ],
+      "thru214": true,
+      "freq214": 3
     },
     {
       "lemma": "אִם",
@@ -496,7 +1057,14 @@ window.JOSH_VOCAB = {
       "freq": 3,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:14",
+        "2:19",
+        "2:20"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "אֲנַחְנוּ",
@@ -505,7 +1073,14 @@ window.JOSH_VOCAB = {
       "freq": 3,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:17",
+        "2:18",
+        "2:19"
+      ],
+      "thru214": false,
+      "freq214": 0
     },
     {
       "lemma": "אִשָּׁה",
@@ -515,7 +1090,14 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:14",
+        "2:1",
+        "2:4"
+      ],
+      "thru214": true,
+      "freq214": 3
     },
     {
       "lemma": "גָּג",
@@ -524,7 +1106,13 @@ window.JOSH_VOCAB = {
       "freq": 3,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:6",
+        "2:8"
+      ],
+      "thru214": true,
+      "freq214": 3
     },
     {
       "lemma": "גַּם",
@@ -534,7 +1122,14 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:15",
+        "2:12",
+        "2:24"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "הֵם",
@@ -544,7 +1139,14 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:15",
+        "2:4",
+        "2:8"
+      ],
+      "thru214": true,
+      "freq214": 3
     },
     {
       "lemma": "הַר",
@@ -553,7 +1155,14 @@ window.JOSH_VOCAB = {
       "freq": 3,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:16",
+        "2:22",
+        "2:23"
+      ],
+      "thru214": false,
+      "freq214": 0
     },
     {
       "lemma": "חַלּוֹן",
@@ -562,7 +1171,14 @@ window.JOSH_VOCAB = {
       "freq": 3,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:15",
+        "2:18",
+        "2:21"
+      ],
+      "thru214": false,
+      "freq214": 0
     },
     {
       "lemma": "חֵסֵד",
@@ -571,7 +1187,13 @@ window.JOSH_VOCAB = {
       "freq": 3,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:12",
+        "2:14"
+      ],
+      "thru214": true,
+      "freq214": 3
     },
     {
       "lemma": "יָדַע",
@@ -580,7 +1202,14 @@ window.JOSH_VOCAB = {
       "freq": 3,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:4",
+        "2:5",
+        "2:9"
+      ],
+      "thru214": true,
+      "freq214": 3
     },
     {
       "lemma": "יָרַד",
@@ -589,7 +1218,14 @@ window.JOSH_VOCAB = {
       "freq": 3,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:15",
+        "2:18",
+        "2:23"
+      ],
+      "thru214": false,
+      "freq214": 0
     },
     {
       "lemma": "יְרִיחוֹ",
@@ -598,7 +1234,14 @@ window.JOSH_VOCAB = {
       "freq": 3,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:1",
+        "2:2",
+        "2:3"
+      ],
+      "thru214": true,
+      "freq214": 3
     },
     {
       "lemma": "כֵּן",
@@ -608,7 +1251,14 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:17",
+        "2:4",
+        "2:21"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "מוּת",
@@ -618,7 +1268,14 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:2",
+        "1:18",
+        "2:14"
+      ],
+      "thru214": true,
+      "freq214": 3
     },
     {
       "lemma": "מֶלֶךְ",
@@ -627,7 +1284,14 @@ window.JOSH_VOCAB = {
       "freq": 3,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:2",
+        "2:3",
+        "2:10"
+      ],
+      "thru214": true,
+      "freq214": 3
     },
     {
       "lemma": "נוּן",
@@ -637,7 +1301,14 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:1",
+        "2:1",
+        "2:23"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "נָקִי",
@@ -646,7 +1317,14 @@ window.JOSH_VOCAB = {
       "freq": 3,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:17",
+        "2:19",
+        "2:20"
+      ],
+      "thru214": false,
+      "freq214": 0
     },
     {
       "lemma": "עֵבֶר",
@@ -656,7 +1334,14 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:14",
+        "1:15",
+        "2:10"
+      ],
+      "thru214": true,
+      "freq214": 3
     },
     {
       "lemma": "רַק",
@@ -665,7 +1350,14 @@ window.JOSH_VOCAB = {
       "freq": 3,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:7",
+        "1:17",
+        "1:18"
+      ],
+      "thru214": true,
+      "freq214": 3
     },
     {
       "lemma": "שָׁלוֹשׁ",
@@ -675,7 +1367,14 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:11",
+        "2:16",
+        "2:22"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "שָׁם",
@@ -684,7 +1383,14 @@ window.JOSH_VOCAB = {
       "freq": 3,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:1",
+        "2:16",
+        "2:22"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "אָז",
@@ -693,7 +1399,12 @@ window.JOSH_VOCAB = {
       "freq": 2,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:8"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "אָחוֹת",
@@ -702,7 +1413,12 @@ window.JOSH_VOCAB = {
       "freq": 2,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:13"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "אֵם",
@@ -711,7 +1427,13 @@ window.JOSH_VOCAB = {
       "freq": 2,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:13",
+        "2:18"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "אֶמֶת",
@@ -720,7 +1442,13 @@ window.JOSH_VOCAB = {
       "freq": 2,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:12",
+        "2:14"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "גָּדוֹל",
@@ -729,7 +1457,12 @@ window.JOSH_VOCAB = {
       "freq": 2,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:4"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "דָּם",
@@ -738,7 +1471,12 @@ window.JOSH_VOCAB = {
       "freq": 2,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:19"
+      ],
+      "thru214": false,
+      "freq214": 0
     },
     {
       "lemma": "הִנֵּה",
@@ -747,7 +1485,13 @@ window.JOSH_VOCAB = {
       "freq": 2,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:2",
+        "2:18"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "חוֹמָה",
@@ -756,7 +1500,12 @@ window.JOSH_VOCAB = {
       "freq": 2,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:15"
+      ],
+      "thru214": false,
+      "freq214": 0
     },
     {
       "lemma": "חָפַר",
@@ -765,7 +1514,13 @@ window.JOSH_VOCAB = {
       "freq": 2,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:2",
+        "2:3"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "יָד",
@@ -774,7 +1529,13 @@ window.JOSH_VOCAB = {
       "freq": 2,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:19",
+        "2:24"
+      ],
+      "thru214": false,
+      "freq214": 0
     },
     {
       "lemma": "יָם",
@@ -784,7 +1545,13 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:4",
+        "2:10"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "יִשְׂרָאֵל",
@@ -794,7 +1561,13 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:2",
+        "2:2"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "לַיִל",
@@ -804,7 +1577,13 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:8",
+        "2:2"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "מוּג",
@@ -813,7 +1592,13 @@ window.JOSH_VOCAB = {
       "freq": 2,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:9",
+        "2:24"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "מָוֶת",
@@ -823,7 +1608,13 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:1",
+        "2:13"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "מִן",
@@ -833,7 +1624,13 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:7",
+        "2:1"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "מַעַן",
@@ -842,7 +1639,13 @@ window.JOSH_VOCAB = {
       "freq": 2,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:7",
+        "1:8"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "מָצָא",
@@ -851,7 +1654,13 @@ window.JOSH_VOCAB = {
       "freq": 2,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:22",
+        "2:23"
+      ],
+      "thru214": false,
+      "freq214": 0
     },
     {
       "lemma": "נָגַד",
@@ -860,7 +1669,13 @@ window.JOSH_VOCAB = {
       "freq": 2,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:14",
+        "2:20"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "נָהָר",
@@ -869,7 +1684,12 @@ window.JOSH_VOCAB = {
       "freq": 2,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:4"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "נוּחַ",
@@ -878,7 +1698,13 @@ window.JOSH_VOCAB = {
       "freq": 2,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:13",
+        "1:15"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "נֶפֶשׁ",
@@ -887,7 +1713,13 @@ window.JOSH_VOCAB = {
       "freq": 2,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:13",
+        "2:14"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "סָגַר",
@@ -896,7 +1728,13 @@ window.JOSH_VOCAB = {
       "freq": 2,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:5",
+        "2:7"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "עוֹד",
@@ -906,7 +1744,13 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:11",
+        "2:11"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "עָלָה",
@@ -915,7 +1759,13 @@ window.JOSH_VOCAB = {
       "freq": 2,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:6",
+        "2:8"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "עַתָּה",
@@ -925,7 +1775,13 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:2",
+        "2:12"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "פֶּה",
@@ -934,7 +1790,13 @@ window.JOSH_VOCAB = {
       "freq": 2,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:8",
+        "1:18"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "קוּם",
@@ -944,7 +1806,13 @@ window.JOSH_VOCAB = {
       "chapters": [
         1,
         2
-      ]
+      ],
+      "verses": [
+        "1:2",
+        "2:11"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "קָשַׁר",
@@ -953,7 +1821,13 @@ window.JOSH_VOCAB = {
       "freq": 2,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:18",
+        "2:21"
+      ],
+      "thru214": false,
+      "freq214": 0
     },
     {
       "lemma": "רֹאשׁ",
@@ -962,7 +1836,12 @@ window.JOSH_VOCAB = {
       "freq": 2,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:19"
+      ],
+      "thru214": false,
+      "freq214": 0
     },
     {
       "lemma": "רָחָב",
@@ -971,7 +1850,13 @@ window.JOSH_VOCAB = {
       "freq": 2,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:1",
+        "2:3"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "שְׁבוּעָה",
@@ -980,7 +1865,13 @@ window.JOSH_VOCAB = {
       "freq": 2,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:17",
+        "2:20"
+      ],
+      "thru214": false,
+      "freq214": 0
     },
     {
       "lemma": "שָׁכַב",
@@ -989,7 +1880,13 @@ window.JOSH_VOCAB = {
       "freq": 2,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:1",
+        "2:8"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "שָׂכַל",
@@ -998,7 +1895,13 @@ window.JOSH_VOCAB = {
       "freq": 2,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:7",
+        "1:8"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "שָׁמַר",
@@ -1007,7 +1910,13 @@ window.JOSH_VOCAB = {
       "freq": 2,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:7",
+        "1:8"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "שֶׁמֶשׁ",
@@ -1016,7 +1925,13 @@ window.JOSH_VOCAB = {
       "freq": 2,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:4",
+        "1:15"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "שָׁנִי",
@@ -1025,7 +1940,13 @@ window.JOSH_VOCAB = {
       "freq": 2,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:18",
+        "2:21"
+      ],
+      "thru214": false,
+      "freq214": 0
     },
     {
       "lemma": "שַׁעַר",
@@ -1034,7 +1955,13 @@ window.JOSH_VOCAB = {
       "freq": 2,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:5",
+        "2:7"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "תּוֹרָה",
@@ -1043,7 +1970,13 @@ window.JOSH_VOCAB = {
       "freq": 2,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:7",
+        "1:8"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "תַּחַת",
@@ -1052,7 +1985,13 @@ window.JOSH_VOCAB = {
       "freq": 2,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:11",
+        "2:14"
+      ],
+      "thru214": true,
+      "freq214": 2
     },
     {
       "lemma": "תִּקְוָה",
@@ -1061,7 +2000,13 @@ window.JOSH_VOCAB = {
       "freq": 2,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:18",
+        "2:21"
+      ],
+      "thru214": false,
+      "freq214": 0
     },
     {
       "lemma": "אוֹת",
@@ -1070,7 +2015,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:12"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "אֵימָה",
@@ -1079,7 +2029,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:9"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "אַיִן",
@@ -1088,7 +2043,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:4"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "אֱמֹרִי",
@@ -1097,7 +2057,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:10"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "אָן",
@@ -1106,7 +2071,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:5"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "אָנֹכִי",
@@ -1115,7 +2085,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:2"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "אָסַף",
@@ -1124,7 +2099,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:18"
+      ],
+      "thru214": false,
+      "freq214": 0
     },
     {
       "lemma": "אֵת",
@@ -1133,7 +2113,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:19"
+      ],
+      "thru214": false,
+      "freq214": 0
     },
     {
       "lemma": "בְּעַד",
@@ -1142,7 +2127,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:15"
+      ],
+      "thru214": false,
+      "freq214": 0
     },
     {
       "lemma": "בָּקַשׁ",
@@ -1151,7 +2141,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:22"
+      ],
+      "thru214": false,
+      "freq214": 0
     },
     {
       "lemma": "גְּבוּל",
@@ -1160,7 +2155,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:4"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "גִּבּוֹר",
@@ -1169,7 +2169,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:14"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "גָּדִי",
@@ -1178,7 +2183,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:12"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "דָבַר",
@@ -1187,7 +2197,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:3"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "דֶּלֶת",
@@ -1196,7 +2211,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:19"
+      ],
+      "thru214": false,
+      "freq214": 0
     },
     {
       "lemma": "דָּרַךְ",
@@ -1205,7 +2225,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:3"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "הָגָה",
@@ -1214,7 +2239,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:8"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "הָלַךְ",
@@ -1223,7 +2253,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:5"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "הֵנָּה",
@@ -1232,7 +2267,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:2"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "זֹאת",
@@ -1241,7 +2281,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:13"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "זָכַר",
@@ -1250,7 +2295,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:13"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "זָנָה",
@@ -1259,7 +2309,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:1"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "חָבָה",
@@ -1268,7 +2323,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:16"
+      ],
+      "thru214": false,
+      "freq214": 0
     },
     {
       "lemma": "חֶבֶל",
@@ -1277,7 +2337,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:15"
+      ],
+      "thru214": false,
+      "freq214": 0
     },
     {
       "lemma": "חוּט",
@@ -1286,7 +2351,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:18"
+      ],
+      "thru214": false,
+      "freq214": 0
     },
     {
       "lemma": "חוּץ",
@@ -1295,7 +2365,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:19"
+      ],
+      "thru214": false,
+      "freq214": 0
     },
     {
       "lemma": "חַי",
@@ -1304,7 +2379,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:5"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "חָיָה",
@@ -1313,7 +2393,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:13"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "חַיִל",
@@ -1322,7 +2407,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:14"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "חָמֻשׁ",
@@ -1331,7 +2421,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:14"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "חֵצִי",
@@ -1340,7 +2435,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:12"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "חָרַם",
@@ -1349,7 +2449,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:10"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "חֶרֶשׁ",
@@ -1358,7 +2463,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:1"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "חֹשֶׁךְ",
@@ -1367,7 +2477,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:5"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "חִתִּי",
@@ -1376,7 +2491,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:4"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "חָתַת",
@@ -1385,7 +2505,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:9"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "טָמַן",
@@ -1394,7 +2519,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:6"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "טַף",
@@ -1403,7 +2533,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:14"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "טֶרֶם",
@@ -1412,7 +2547,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:8"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "יָבֵשׁ",
@@ -1421,7 +2561,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:10"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "יוֹמָם",
@@ -1430,7 +2575,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:8"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "יָמִין",
@@ -1439,7 +2589,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:7"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "יָצַב",
@@ -1448,7 +2603,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:5"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "יְרֻשָּׁה",
@@ -1457,7 +2617,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:15"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "כּוּן",
@@ -1466,7 +2631,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:11"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "כַּף",
@@ -1475,7 +2645,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:3"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "כָּתַב",
@@ -1484,7 +2659,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:8"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "לֵבָב",
@@ -1493,7 +2673,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:11"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "לְבָנוֹן",
@@ -1502,7 +2687,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:4"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "לָקַח",
@@ -1511,7 +2701,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:4"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "מְאֹד",
@@ -1520,7 +2715,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:7"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "מָבוֹא",
@@ -1529,7 +2729,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:4"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "מִדְבָּר",
@@ -1538,7 +2743,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:4"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "מַהֵר",
@@ -1547,7 +2757,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:5"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "מוּשׁ",
@@ -1556,7 +2771,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:8"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "מִזְרָח",
@@ -1565,7 +2785,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:15"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "מַחֲנֶה",
@@ -1574,7 +2799,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:11"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "מַיִם",
@@ -1583,7 +2813,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:10"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "מְנַשֶּׁה",
@@ -1592,7 +2827,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:12"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "מָסַס",
@@ -1601,7 +2841,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:11"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "מַעֲבָר",
@@ -1610,7 +2855,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:7"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "מַעַל",
@@ -1619,7 +2869,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:11"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "מִצְרַיִם",
@@ -1628,7 +2883,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:10"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "מָקוֹם",
@@ -1637,7 +2897,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:3"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "מִקְנֶה",
@@ -1646,7 +2911,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:14"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "מָרָה",
@@ -1655,7 +2925,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:18"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "נָא",
@@ -1664,7 +2939,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:12"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "נָחַל",
@@ -1673,7 +2953,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:6"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "נָפַל",
@@ -1682,7 +2967,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:9"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "נָצַל",
@@ -1691,7 +2981,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:13"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "נָשַׂג",
@@ -1700,7 +2995,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:5"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "סוּף",
@@ -1709,7 +3009,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:10"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "סוּר",
@@ -1718,7 +3023,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:7"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "סִיחוֹן",
@@ -1727,7 +3037,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:10"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "סָפַר",
@@ -1736,7 +3051,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:23"
+      ],
+      "thru214": false,
+      "freq214": 0
     },
     {
       "lemma": "סֵפֶר",
@@ -1745,7 +3065,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:8"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "עוֹג",
@@ -1754,7 +3079,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:10"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "עָזַב",
@@ -1763,7 +3093,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:5"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "עָזַר",
@@ -1772,7 +3107,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:14"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "עָנָה",
@@ -1781,7 +3121,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:16"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "עֵץ",
@@ -1790,7 +3135,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:6"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "עָרַךְ",
@@ -1799,7 +3149,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:6"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "עָרַץ",
@@ -1808,7 +3163,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:9"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "פָּגַע",
@@ -1817,7 +3177,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:16"
+      ],
+      "thru214": false,
+      "freq214": 0
     },
     {
       "lemma": "פֵּן",
@@ -1826,7 +3191,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:16"
+      ],
+      "thru214": false,
+      "freq214": 0
     },
     {
       "lemma": "פְּרָת",
@@ -1835,7 +3205,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:4"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "פִּשְׁתֶּה",
@@ -1844,7 +3219,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:6"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "צֵידָה",
@@ -1853,7 +3233,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:11"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "צָלַח",
@@ -1862,7 +3247,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:8"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "צָפַן",
@@ -1871,7 +3261,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:4"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "קִיר",
@@ -1880,7 +3275,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:15"
+      ],
+      "thru214": false,
+      "freq214": 0
     },
     {
       "lemma": "קֶרֶב",
@@ -1889,7 +3289,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:11"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "רָאָה",
@@ -1898,7 +3303,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:1"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "רְאוּבֵנִי",
@@ -1907,7 +3317,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:12"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "רָגַל",
@@ -1916,7 +3331,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:1"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "רֶגֶל",
@@ -1925,7 +3345,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:3"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "רוּחַ",
@@ -1934,7 +3359,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:11"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "רָפָה",
@@ -1943,7 +3373,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:5"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "שֵׁבֶט",
@@ -1952,7 +3387,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:12"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "שִׁטִּים",
@@ -1961,7 +3401,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:1"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "שֹׁטֵר",
@@ -1970,7 +3415,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:10"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "שֵׁם",
@@ -1979,7 +3429,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:1"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "שְׂמֹאול",
@@ -1988,7 +3443,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:7"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "שָׁמַיִם",
@@ -1997,7 +3457,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         2
-      ]
+      ],
+      "verses": [
+        "2:11"
+      ],
+      "thru214": true,
+      "freq214": 1
     },
     {
       "lemma": "שָׁרַת",
@@ -2006,7 +3471,12 @@ window.JOSH_VOCAB = {
       "freq": 1,
       "chapters": [
         1
-      ]
+      ],
+      "verses": [
+        "1:1"
+      ],
+      "thru214": true,
+      "freq214": 1
     }
   ]
 };

@@ -49,3 +49,18 @@ gh api -X POST repos/sethtempleton-alt/ot605-josh-vocab/pages -f build_type=work
 ```
 
 Intended live URL: `https://sethtempleton-alt.github.io/ot605-josh-vocab/`
+
+## Class-range filter (Josh 1:1–2:14)
+
+Each lemma in `vocab.js` carries `verses`, `thru214` (occurs in 1:1–2:14) and `freq214`.
+Default filter is **Josh 1:1–2:14 (class so far)**; **Hard only within 1:1–2:14** = `thru214 && freq214 <= 2`.
+Prefs key bumped to `josh-vocab-prefs-v2` so an old saved filter doesn't override the new default.
+
+Rebuild data / standalone:
+
+```bash
+python3 tools_add_thru214.py /path/to/morphhb/wlc/Josh.xml
+python3 tools_build_standalone.py /workspace/Joshua-Vocab-1.1-2.14.html
+```
+
+`Joshua-Vocab-1.1-2.14.html` is a single-file build (no service worker/manifest) that runs from a file.

@@ -1,5 +1,5 @@
 /* Cache shell + vocab for offline after first visit */
-const CACHE = "josh-vocab-shell-v1";
+const CACHE = "josh-vocab-shell-v2";
 const ASSETS = [
   "./",
   "./index.html",

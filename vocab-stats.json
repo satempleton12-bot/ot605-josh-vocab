@@ -15,5 +15,9 @@
   "hard_leq_2": 146,
   "missing_gloss_strongs": [],
   "unresolved_clitic_suffix_tokens": 26,
-  "note": "Some MorphHB tokens are inseparable preposition+pronoun clitics (lemma code only); those lack separate numeric lemma IDs. All numeric lemmas resolved via Strong's."
+  "note": "Some MorphHB tokens are inseparable preposition+pronoun clitics (lemma code only); those lack separate numeric lemma IDs. All numeric lemmas resolved via Strong's.",
+  "thru214_lemmas": 190,
+  "hard214_lemmas": 135,
+  "only_2_15_24_lemmas": 27,
+  "thru214_note": "thru214 = occurs in Josh 1:1–2:14; freq214 = occurrences in that range (MorphHB WLC verse osisIDs)."
 }

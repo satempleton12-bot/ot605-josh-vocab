@@ -1,6 +1,6 @@
 /* Joshua 1–2 Vocab — flip cards for OT605 */
 (() => {
-  const PREFS_KEY = "josh-vocab-prefs-v1";
+  const PREFS_KEY = "josh-vocab-prefs-v2"; // v2: new default filter thru214
   const { words: ALL } = window.JOSH_VOCAB;
 
   const $ = (sel) => document.querySelector(sel);
@@ -34,7 +34,7 @@
 
   let state = {
     mode: "he-en",
-    filter: "all",
+    filter: "thru214",
     queue: [],
     missed: [],
     lastMissed: [],
@@ -74,6 +74,12 @@
 
   function filterWords(filter) {
     switch (filter) {
+      case "thru214":
+        return ALL.filter((w) => w.thru214);
+      case "hard214":
+        return ALL.filter((w) => w.thru214 && w.freq214 <= 2);
+      case "all":
+        return ALL.slice();
       case "ch1":
         return ALL.filter((w) => w.chapters.includes(1));
       case "ch2":
@@ -83,13 +89,15 @@
       case "hard":
         return ALL.filter((w) => w.freq <= 2);
       default:
-        return ALL.slice();
+        return ALL.filter((w) => w.thru214);
     }
   }
 
   function filterLabel(filter) {
     return (
       {
+        thru214: "Josh 1:1–2:14",
+        hard214: "Hard (1:1–2:14)",
         all: "All lemmas",
         ch1: "Chapter 1",
         ch2: "Chapter 2",
@@ -124,7 +132,8 @@
 
   function chapterNote(w) {
     const ch = w.chapters.join("·");
-    return `${w.strongs} · Josh ${ch} · ${w.freq}×`;
+    const in214 = w.thru214 ? ` · ${w.freq214}× in 1:1–2:14` : " · only 2:15–24";
+    return `${w.strongs} · Josh ${ch} · ${w.freq}×${in214}`;
   }
 
   function paintCard(w) {
@@ -193,7 +202,7 @@
 
   function startRound(reviewOnly) {
     state.mode = els.modeSelect.value || "he-en";
-    state.filter = els.filterSelect.value || "all";
+    state.filter = els.filterSelect.value || "thru214";
     savePrefs();
 
     if (reviewOnly && state.lastMissed.length) {
@@ -253,12 +262,14 @@
   });
   els.filterSelect.addEventListener("change", updateStatus);
 
+  try { localStorage.removeItem("josh-vocab-prefs-v1"); } catch (_) {}
   const prefs = loadPrefs();
   if (prefs.mode) {
     els.modeSelect.value = prefs.mode;
     state.mode = prefs.mode;
   }
-  if (prefs.filter) {
+  const validFilters = Array.from(els.filterSelect.options, (o) => o.value);
+  if (prefs.filter && validFilters.includes(prefs.filter)) {
     els.filterSelect.value = prefs.filter;
     state.filter = prefs.filter;
   }
